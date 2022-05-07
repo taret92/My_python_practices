@@ -10,7 +10,7 @@ while True:
 
     if (seleccion != '1' and seleccion != '2' and seleccion != '3'):
         print(f"""            *******************************************\n
-            Por favor selecciones una opcion válida\n
+            Por favor seleccione una opción válida\n
             *******************************************""")
 
     if (seleccion == '1'):
